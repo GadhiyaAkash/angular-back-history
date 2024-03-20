@@ -13,8 +13,10 @@ Current Version
 Installation
 ============
 
+Bower is deprecated, let's install the library directly from the project's main branch.
+
 ```
-bower install angular-back-history
+bower install https://github.com/GadhiyaAkash/angular-back-history.git#main --save
 ```
 
 Requirements
